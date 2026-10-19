@@ -11,9 +11,9 @@ public class Practice02 {
 
         // Завдання 1: особиста картка студента (змініть на свої дані)
         System.out.println("=== Завдання 1 ===");
-        int age = 18;
+        int age = 17;
         double height = 1.78;
-        char firstLetter = 'О';
+        char firstLetter = 'І';
         boolean isStudent = true;
         System.out.println(age);
         System.out.println(height);
